@@ -1,1 +1,1 @@
-This is my second directory
+This is my edited second directory
